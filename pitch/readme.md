@@ -2,7 +2,7 @@
 
 Vocês encontrarão no link a seguir o modelo diretamente no [Google Slides](https://docs.google.com/presentation/d/1VBEtOtP5QN4JxBVnUa2NpO5y_vtNJzjB/edit?usp=sharing&ouid=107888726817795276229&rtpof=true&sd=true). Basta criar uma cópia lá.
 
-A apresentação, preferencialmente em [PDF](Saper.edu - Pitch.pdf), não precisa ter efeitos. Basta preencher com os elementos descritos na próxima seção. Adicionalmente, vocês podem ver o exemplo em PDF de uma apresentação.
+A apresentação, preferencialmente em [PDF](https://github.com/sauloafoliveira/saper/blob/main/pitch/Saper.edu%20-%20Pitch.pdf), não precisa ter efeitos. Basta preencher com os elementos descritos na próxima seção. Adicionalmente, vocês podem ver o exemplo em PDF de uma apresentação.
 
 ## O quê precisa ter nos slides?
 
