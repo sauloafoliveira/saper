@@ -18,16 +18,18 @@ Aqui, vocês encontrarão o calendário de entregas. As entregas pelo calendári
 > - [ ] Diagrama de Entidade-Relacional;
 > - [ ] Script SQL de criação do banco de dados do projeto.
 
-> ``05/06`` Definições da camada de Visão;
+> ``05/06`` Definições da camada de Visão e Controle;
 > - [ ]  Protótipo de telas com base nos requisitos;
-> - [ ]  Definição da identidade visual.
+> - [ ]  Definição da identidade visual;
+> - [ ]  Implementação das entidades e relacionamentos utilizando Spring;
+> - [ ]  Implementação de enpoints para relização de CRUDs.
 
 > ``14/06`` Definições da camada de Controle;
-> - [ ]  Integração com Banco de dados;
-> - [ ] (CRUD básico das entidades;
+> - [ ] Implementação de Autenticação de usuários e definição de autorização nos enpoints.
 
 > ``29/06`` Definições da camada de Visão & Controle;
 > - [ ] Integração front & back;
+> - [ ] Telas implementadas.
 
 > ``30/06`` à ``04/07``Acompanhamento de projeto;
 
