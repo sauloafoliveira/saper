@@ -36,9 +36,9 @@ Aqui, vocês encontrarão o calendário de entregas. As entregas pelo calendári
 > ``06/07`` Apresentação final.
 
 
-# Projetos
+# Lista de Projetos
 
-## Almoxarifado de hospital
+## Sistema de Almoxarifado Hospitalar
 
 O sistema para hospitais permite que sua equipe tenha total controle dos recursos e materiais utilizados em procedimentos médicos. A ideia é   digitalizar um processo comumente manual, cujo controle se dá por planilhas dispersas no sistema de uma operadora de saúde.
 
@@ -64,7 +64,7 @@ Em relação às novas compras de materiais, deverão ser guardadas as seguintes
 
 Os funcionário poderam realizar baixas no Almoxarido, isto é, demandar materiais para serem utilizados pelo hospital. Uma vez que essa demanda for atendida, atualiza-se a quantidade de elementos no almoxarifado.
 
-## Marcação de consultas
+## Sistema de Marcação de Consultas
 
 Trata-se de um sistema web para auxiliar médicos e recepcionistas de uma clínica médica no processo de atendimento e gerenciamento de filas de espera. As agendas dos médicos seriam configuradas de acordo com os dias e horários de atendimentos de cada um, bem como a quantidade máxima de consultas permitidas. Já na recepção o sistema auxiliaria os atendentes a identificar a consulta de um paciente marcada previamente e na inserção de novos pacientes na fila de atendimento sem marcação prévia de uma consulta.
 
@@ -83,7 +83,7 @@ O sistema deve ser capaz de exibir para os médicos a sua lista de atendimento d
 - [ ] Visualizar protuário;
 - [ ] Gerenciar fila de atendimento.
 
-## Controle e reserva de leitos
+## Sistema de Controle e reserva de leitos
 
 A gestão de leitos é um assunto muito importante para um hospital ou clínica,  pois através da visualização e monitoramento constante do uso das camas, ou seja, os leitos ocupados, disponíveis, reservados, em limpeza, dentre outros, pode-se combater a ociosidade dos leitos ao aprimorar o planejamento para o seu uso.
 
